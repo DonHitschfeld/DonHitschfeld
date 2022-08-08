@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi, I'm Diego 👋
 
-<!--
-**DonHitschfeld/DonHitschfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const DonHitschfeld = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS,],
+  tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
+}
+```
 
-Here are some ideas to get you started:
+You can find me 🌎:
+- [Blog](https://DonHitschfeld.dev)
+- [Twitter](https://twitter.com/DonHitschfeld)
+- [Instagram](https://instagram.com/diegohitschfeld_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
