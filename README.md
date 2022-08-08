@@ -9,7 +9,7 @@ const DonHitschfeld = {
 ```
 
 You can find me 🌎:
-- [Blog](https://DonHitschfeld.dev)
+- [Blog](https://dev.to/donhitschfeld)
 - [Twitter](https://twitter.com/DonHitschfeld)
 - [Instagram](https://instagram.com/diegohitschfeld_)
 
